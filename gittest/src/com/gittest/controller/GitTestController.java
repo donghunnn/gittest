@@ -7,4 +7,8 @@ public class GitTestController {
 	public String checkStr() {
 		return "배고프다";
 	}
+	
+	public void test2() {
+		 
+	}
 }
